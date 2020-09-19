@@ -11,3 +11,5 @@ Course2:Improving Deep Neural Networks: Hyperparameter tuning, Regularization an
 Course3:Structuring Machine Learning Projects(2 week course)
 
 Course4:Convolution Neural Networks(4 Week course)
+
+Course5:Sequence Modelling(3 Week course)
